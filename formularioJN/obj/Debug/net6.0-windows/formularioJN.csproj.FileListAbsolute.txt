@@ -1,0 +1,34 @@
+C:\Users\yujud\source\repos\formularioJN\formularioJN\bin\Debug\net6.0-windows\formularioJN.exe
+C:\Users\yujud\source\repos\formularioJN\formularioJN\bin\Debug\net6.0-windows\formularioJN.deps.json
+C:\Users\yujud\source\repos\formularioJN\formularioJN\bin\Debug\net6.0-windows\formularioJN.runtimeconfig.json
+C:\Users\yujud\source\repos\formularioJN\formularioJN\bin\Debug\net6.0-windows\formularioJN.dll
+C:\Users\yujud\source\repos\formularioJN\formularioJN\bin\Debug\net6.0-windows\formularioJN.pdb
+C:\Users\yujud\source\repos\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.Form1.resources
+C:\Users\yujud\source\repos\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.csproj.GenerateResource.cache
+C:\Users\yujud\source\repos\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yujud\source\repos\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.AssemblyInfoInputs.cache
+C:\Users\yujud\source\repos\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.AssemblyInfo.cs
+C:\Users\yujud\source\repos\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.csproj.CoreCompileInputs.cache
+C:\Users\yujud\source\repos\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.dll
+C:\Users\yujud\source\repos\formularioJN\formularioJN\obj\Debug\net6.0-windows\refint\formularioJN.dll
+C:\Users\yujud\source\repos\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.pdb
+C:\Users\yujud\source\repos\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.genruntimeconfig.cache
+C:\Users\yujud\source\repos\formularioJN\formularioJN\obj\Debug\net6.0-windows\ref\formularioJN.dll
+C:\Users\yujud\source\repos\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.Properties.Resources.resources
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\bin\Debug\net6.0-windows\formularioJN.exe
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\bin\Debug\net6.0-windows\formularioJN.deps.json
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\bin\Debug\net6.0-windows\formularioJN.runtimeconfig.json
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\bin\Debug\net6.0-windows\formularioJN.dll
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\bin\Debug\net6.0-windows\formularioJN.pdb
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.Form1.resources
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.Properties.Resources.resources
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.csproj.GenerateResource.cache
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.AssemblyInfoInputs.cache
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.AssemblyInfo.cs
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.csproj.CoreCompileInputs.cache
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.dll
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\obj\Debug\net6.0-windows\refint\formularioJN.dll
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.pdb
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\obj\Debug\net6.0-windows\formularioJN.genruntimeconfig.cache
+D:\Universidad\2 ciber infraestructura\formularioJN\formularioJN\obj\Debug\net6.0-windows\ref\formularioJN.dll
